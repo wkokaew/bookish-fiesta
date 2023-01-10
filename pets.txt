@@ -4,6 +4,9 @@ Cats
 Dog
 Buffalo
 Iguana
+Hamter
+Mice 
+Frog
 
 Names
 =====
